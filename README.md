@@ -19,6 +19,10 @@ This project monitors multiple health parameters using Embedded C and detects ab
 - Fever
 - Heart Issue
 - Low Oxygen (Blink)
+
+## Demo
+
+https://www.linkedin.com/posts/priyanshu-pandit-29ab9b2bb_embeddedsystems-iot-cprogramming-ugcPost-7453700891246911488-wJ5O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEziWNYBydR2TTYyw7idg6onwcdGkFzkt4o
 - Critical
 
 ## Tools Used:
